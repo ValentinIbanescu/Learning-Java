@@ -8,8 +8,9 @@ public class Main {
         boolean hasPerfectAttendance = true;
 
         System.out.println("Student name: " + studentFirstInitial + " " + studentLastInitial);
-        System.out.println("Student age: " + studentAge);
-        System.out.println("Student GPA: " + studentGPA);
+        System.out.println("Age: " + studentAge);
+        System.out.println("GPA: " + studentGPA);
+        System.out.println("Attendance: " + hasPerfectAttendance);
 
     }
 }
